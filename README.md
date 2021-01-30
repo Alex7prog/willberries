@@ -1,5 +1,6 @@
 # willberries - Учебный проект GLO Academy
 выполнил Седьмой Александр
+использовались:
 -HTML
 -CSS
 -JavaScript
